@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 📫 How to reach me: https://twitter.com/kartarjabanda
 
