@@ -1,4 +1,4 @@
-### Hi 👋
+### Hi 👋 I'm currently using GitLab, but my projects will be hosted here too.
 
 📫 How to reach me: https://twitter.com/kartarjabanda
 
