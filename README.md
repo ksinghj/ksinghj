@@ -1,4 +1,4 @@
-### Hi 👋 I'm currently using GitLab, but my projects will be hosted here too.
+### Hi 👋 I'm currently using GitLab, but my projects will be on here too.
 
 📫 How to reach me: https://twitter.com/kartarjabanda
 
@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on LIFT, a workout tracking app.
