@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on LIFT, a workout tracking app.
+🔭 I’m currently working on LIFT, a workout tracking app, as well as learning C# and Typescript!
