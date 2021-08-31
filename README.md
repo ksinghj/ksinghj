@@ -1,4 +1,4 @@
-### Hi 👋 I'm currently using GitLab, but my test projects will be on here mostly.
+### Hi 👋 I'm currently using GitLab, but I'll still post test projects on here from time to time, although most are private repos sorry ;)
 
 📫 How to reach me: https://twitter.com/kartarjabanda
 
