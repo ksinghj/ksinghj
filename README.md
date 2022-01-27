@@ -17,5 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on LIFT, a workout tracking app, as well as learning C# and Typescript!
+💁🏽‍♀️ Software Engineer (React Native team) @Missguided
+
+🔭 I’m currently working on: Learning blockchain development (Solidity)!
+
 🏋🏽‍♂️ LIFT: Workout Tracker https://linktr.ee/LIFT_app
