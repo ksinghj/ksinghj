@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 -->
 
 🔭 I’m currently working on LIFT, a workout tracking app, as well as learning C# and Typescript!
+🏋🏽‍♂️ LIFT: Workout Tracker https://linktr.ee/LIFT_app
