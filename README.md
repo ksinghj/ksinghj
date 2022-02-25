@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 💁🏽‍♀️ Software Engineer (React Native team) @Missguided
 
-🔭 I’m currently working on: Learning blockchain development (Solidity)!
+🔭 I’m currently working on: Learning Ethereum blockchain development (Solidity)!
 
 🏋🏽‍♂️ LIFT: Workout Tracker https://linktr.ee/LIFT_app
