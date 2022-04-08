@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💁🏽‍♀️ Software Engineer (React Native team) @Missguided
+💁🏽‍♀️ Software Engineer (Mobile App team) @Missguided
 
-🔭 I’m currently working on: Learning Ethereum blockchain development (Solidity)!
+🔭 I’m currently working on: Learning Ethereum blockchain development (Solidity) & [learning computer science](https://teachyourselfcs.com/)!
 
 🏋🏽‍♂️ LIFT: Workout Tracker https://linktr.ee/LIFT_app
