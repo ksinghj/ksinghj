@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💁🏽‍♀️ Software Engineer (Mobile App team) @Missguided
+💁🏽‍♀️ Software Engineer (Mobile App team) [@PrettyLittleThing.com](https://www.prettylittlething.com/)
 
 🔭 I’m currently working on: Learning Ethereum blockchain development (Solidity) & [learning computer science](https://teachyourselfcs.com/)!
 
