@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 💁🏽‍♀️ Software Engineer (Mobile App team) [@PrettyLittleThing.com](https://www.prettylittlething.com/)
 
-🔭 I’m currently working on: Learning Ethereum blockchain development (Solidity) & [learning computer science](https://teachyourselfcs.com/)!
+🔭 I’m currently working on: A super top secret app, and [learning computer science](https://teachyourselfcs.com/)!
 
 🏋🏽‍♂️ LIFT: Workout Tracker https://linktr.ee/LIFT_app
