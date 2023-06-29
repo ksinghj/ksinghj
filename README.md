@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💁🏽‍♀️ Software Engineer (Mobile App team) [@PrettyLittleThing.com](https://www.prettylittlething.com/)
+💁🏽‍♀️ Senior Software Engineer [@PUSH](https://www.pushapp.co.uk/)
 
-🔭 I’m currently working on: https://flashapp.cards/, and [learning computer science](https://teachyourselfcs.com/)!
+🔭 I’m currently working on building another mobile app, and [learning computer science](https://teachyourselfcs.com/)!
 
 🏋🏽‍♂️ LIFT: Workout Tracker https://linktr.ee/LIFT_app
+
+⚡️ Flash - Flashcards made easy: https://flashapp.cards/
