@@ -1,6 +1,16 @@
-### Hi 👋 I'm currently using GitLab for my production projects, but test repos etc will be on here
+#  Hi 👋🏽 I'm Kartar
 
-📫 How to reach me: https://twitter.com/kartarjabanda
+### About me
+
+💁🏽‍♀️ Senior Software Engineer: [PUSH](https://www.pushapp.co.uk/)
+
+🔭 I’m currently working on building another mobile app, and [learning computer science](https://teachyourselfcs.com/)!
+
+### Projects
+
+🌍 Nattr - Reach fluency faster: https://nattr.chat/
+
+⚡️ Flash - Flashcards made easy: https://flashapp.cards/
 
 <!--
 **ksinghj/ksinghj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,14 +23,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-💁🏽‍♀️ Senior Software Engineer [@PUSH](https://www.pushapp.co.uk/)
-
-🔭 I’m currently working on building another mobile app, and [learning computer science](https://teachyourselfcs.com/)!
-
-🏋🏽‍♂️ LIFT: Workout Tracker https://linktr.ee/LIFT_app
-
-⚡️ Flash - Flashcards made easy: https://flashapp.cards/
