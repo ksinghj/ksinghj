@@ -4,8 +4,7 @@
 
 💁🏽‍♀️ Senior Software Engineer: [PUSH](https://www.pushapp.co.uk/)
 
-🔭 I’m currently working on building another [mobile app](https://nattr.chat/
-), and [learning computer science](https://teachyourselfcs.com/)!
+🔭 I’m currently working on [learning computer science](https://teachyourselfcs.com/)!
 
 ### Projects
 
