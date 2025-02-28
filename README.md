@@ -8,9 +8,9 @@
 
 ### Projects
 
-🌍 Nattr - Reach fluency faster: https://nattr.chat/
+🌍 [Nattr](https://nattr.chat/) - Reach fluency faster
 
-⚡️ Flash - Flashcards made easy: https://flashapp.cards/
+⚡️ [Flash](https://flashapp-cards.vercel.app) - Flashcards made easy
 
 <!--
 **ksinghj/ksinghj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
